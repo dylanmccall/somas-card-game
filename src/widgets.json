@@ -2,7 +2,6 @@
   "41467271-65c5-49e0-b262-f37d71e5f104": {
     "id": "41467271-65c5-49e0-b262-f37d71e5f104",
     "z": 604,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-70455291-5c08-4164-bb9b-8392fdb22066",
@@ -11,7 +10,6 @@
   "3043379d-ca76-44f8-8992-a8092cdf7895": {
     "id": "3043379d-ca76-44f8-8992-a8092cdf7895",
     "z": 135,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-28548a51-f287-4900-a367-daea79c2dcf5",
@@ -226,7 +224,6 @@
   "34b2886a-c268-4aa4-88ec-161982dcc8be": {
     "id": "34b2886a-c268-4aa4-88ec-161982dcc8be",
     "z": 2924,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-fccb1b96-ef27-464c-b5bd-d26a6bd24f8d",
@@ -235,7 +232,6 @@
   "8c747e48-841f-4a8a-8064-1872637902b7": {
     "id": "8c747e48-841f-4a8a-8064-1872637902b7",
     "z": 2251,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-cca99e22-ff69-46cf-a7ed-fa4b428d38ac",
@@ -244,7 +240,6 @@
   "60bc12d5-fa43-4431-828c-9b166f567cd9": {
     "id": "60bc12d5-fa43-4431-828c-9b166f567cd9",
     "z": 803,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-4d247d50-106a-4d30-b606-eb389a5568f1",
@@ -459,7 +454,6 @@
   "df4d4e4c-74b7-49f8-9d1a-aa4886e0ab76": {
     "id": "df4d4e4c-74b7-49f8-9d1a-aa4886e0ab76",
     "z": 1120,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-2fb360c3-1eab-4f9c-bde8-5333d07e455f",
@@ -468,7 +462,6 @@
   "a61571d1-8e6e-4bc5-890e-a7cb02f147f5": {
     "id": "a61571d1-8e6e-4bc5-890e-a7cb02f147f5",
     "z": 631,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-65b7ec95-c2e2-4a0b-9f85-539867b94578",
@@ -477,7 +470,6 @@
   "105cb5c2-e973-4ba9-9250-e2b4545c5a87": {
     "id": "105cb5c2-e973-4ba9-9250-e2b4545c5a87",
     "z": 8832,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-357936c8-85a8-4b3f-8579-aea0bffb3757",
@@ -486,7 +478,6 @@
   "d7ca398a-4156-4372-9b01-e2aeffd7bd73": {
     "id": "d7ca398a-4156-4372-9b01-e2aeffd7bd73",
     "z": 3174,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-25ca8d02-b8c6-4ff4-83d0-a3096cddc71e",
@@ -495,7 +486,6 @@
   "96c1f944-c2c4-46fe-975e-7f0df9951f14": {
     "id": "96c1f944-c2c4-46fe-975e-7f0df9951f14",
     "z": 4443,
-    "rotation": -900,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-fc5d7a70-94c4-4ad9-8347-c2256663a12b",
@@ -504,7 +494,6 @@
   "5c2de4b3-00fb-4f6a-b235-611b514f86bc": {
     "id": "5c2de4b3-00fb-4f6a-b235-611b514f86bc",
     "z": 8814,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-e8553807-b14f-4568-b234-fd77ea0d2fa0",
@@ -529,7 +518,6 @@
   "85c3964d-bdb9-4bf4-830b-d227d35db433": {
     "id": "85c3964d-bdb9-4bf4-830b-d227d35db433",
     "z": 8510,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-a2ab1648-e00a-4cb4-96c8-b6d37a6a5bf4",
@@ -538,7 +526,6 @@
   "02de0ae6-f62d-4543-8192-c58dc1d1e962": {
     "id": "02de0ae6-f62d-4543-8192-c58dc1d1e962",
     "z": 9817,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-9aac6557-9bb0-49d1-8c9e-cc43b6324225",
@@ -547,7 +534,6 @@
   "1583ebed-c1d1-4258-9ff3-1f3ae57429e6": {
     "id": "1583ebed-c1d1-4258-9ff3-1f3ae57429e6",
     "z": 6830,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-6476b733-7ab9-46aa-8d88-e6f8ae19915f",
@@ -556,7 +542,6 @@
   "bf17b3a7-018d-48f9-92f7-3a0efc5b2ab4": {
     "id": "bf17b3a7-018d-48f9-92f7-3a0efc5b2ab4",
     "z": 1164,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-d4789d98-a51f-4d11-bf18-8b598e7ba078",
@@ -565,7 +550,6 @@
   "277b9379-ed87-4b5d-bd95-9800eb3b8dd5": {
     "id": "277b9379-ed87-4b5d-bd95-9800eb3b8dd5",
     "z": 2819,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-af83b470-e065-4cf5-b4f3-6609ad6222c8",
@@ -780,7 +764,6 @@
   "7d186124-7337-4e32-bdd2-2c5dad82e24b": {
     "id": "7d186124-7337-4e32-bdd2-2c5dad82e24b",
     "z": 9689,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-3b07c570-d141-4c66-88c4-1a3dced32bcc",
@@ -1015,7 +998,6 @@
   "878bbfec-40fd-4a4f-9a71-76680dc3d3a6": {
     "id": "878bbfec-40fd-4a4f-9a71-76680dc3d3a6",
     "z": 6760,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-c00a6809-9812-4ce7-9534-dfc722d44f24",
@@ -1038,7 +1020,6 @@
   "501a050b-9b1e-4e3a-8b0b-852a3657d2db": {
     "id": "501a050b-9b1e-4e3a-8b0b-852a3657d2db",
     "z": 6150,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-5af67d0e-fde8-4949-a025-f1571ebb244d",
@@ -1047,7 +1028,6 @@
   "f3af38a3-0f1e-4103-81b2-c906ffcade7f": {
     "id": "f3af38a3-0f1e-4103-81b2-c906ffcade7f",
     "z": 8799,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-bf9598a2-1efd-4cf4-b882-058dfdd12a37",
@@ -1056,7 +1036,6 @@
   "e5586def-84f4-48d2-bfd9-b16a593162f9": {
     "id": "e5586def-84f4-48d2-bfd9-b16a593162f9",
     "z": 3117,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-890b4894-57e7-4e43-bd19-1ac1c9b93bca",
@@ -1279,7 +1258,6 @@
   "b496f84d-a0f9-411e-9ebc-e0c75b84c043": {
     "id": "b496f84d-a0f9-411e-9ebc-e0c75b84c043",
     "z": 8681,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-705eebc9-c962-479d-b081-aad81e80b4e1",
@@ -1296,7 +1274,6 @@
   "6127b195-f4f9-4995-aaef-6391bd1d2f97": {
     "id": "6127b195-f4f9-4995-aaef-6391bd1d2f97",
     "z": 7671,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-82478f4a-6fce-4bad-a88e-433331cd5341",
@@ -1305,7 +1282,6 @@
   "c159097a-4115-4f22-abf0-04c67c697b23": {
     "id": "c159097a-4115-4f22-abf0-04c67c697b23",
     "z": 1563,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-199ba78c-7fa8-46da-8cf2-de6b95e310d8",
@@ -1314,7 +1290,6 @@
   "5dda1018-7e89-4d42-bd1e-7caf4636219e": {
     "id": "5dda1018-7e89-4d42-bd1e-7caf4636219e",
     "z": 5454,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-e8553807-b14f-4568-b234-fd77ea0d2fa0",
@@ -1629,7 +1604,6 @@
   "38f7724e-dbfc-4908-afc8-0d555673bfeb": {
     "id": "38f7724e-dbfc-4908-afc8-0d555673bfeb",
     "z": 4463,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-3dd9c069-a6d7-4d83-8603-3e734e884f5d",
@@ -1686,7 +1660,6 @@
   "3ebe7a73-ffdb-4ff0-a26f-cf64d61bfe16": {
     "id": "3ebe7a73-ffdb-4ff0-a26f-cf64d61bfe16",
     "z": 3051,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-afb8c705-ab9a-4b54-bc04-584c569e1954",
@@ -1695,7 +1668,6 @@
   "ed6ab89b-b619-4397-a55c-1fa5073f1691": {
     "id": "ed6ab89b-b619-4397-a55c-1fa5073f1691",
     "z": 3061,
-    "rotation": -720,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-658a8688-0aa1-4aab-b389-2e5443f7d1b9",
@@ -1704,7 +1676,6 @@
   "54b530e2-d56a-4103-a19e-a2222f8f8c9c": {
     "id": "54b530e2-d56a-4103-a19e-a2222f8f8c9c",
     "z": 4413,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-f6c35e92-84b5-4bcc-927c-31554eee2b10",
@@ -1721,7 +1692,6 @@
   "b3d78580-dfa0-4064-937b-363289397dc0": {
     "id": "b3d78580-dfa0-4064-937b-363289397dc0",
     "z": 3582,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-85685990-a586-4d51-9b74-8e4c8f58deb6",
@@ -1738,7 +1708,6 @@
   "97cb7cc7-a93f-4692-a6c7-6678c717fdaf": {
     "id": "97cb7cc7-a93f-4692-a6c7-6678c717fdaf",
     "z": 1809,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-29af7d8c-2f82-43be-8840-bdd8b09b7fdc",
@@ -1747,7 +1716,6 @@
   "dd9314f7-0f5d-455c-b027-78c71820bac3": {
     "id": "dd9314f7-0f5d-455c-b027-78c71820bac3",
     "z": 6187,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-84fff258-0969-4f70-968f-7bd4a7cc277f",
@@ -1756,7 +1724,6 @@
   "fa03a3d3-79e2-40c3-baaa-7f64d67ca716": {
     "id": "fa03a3d3-79e2-40c3-baaa-7f64d67ca716",
     "z": 2018,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-1726baac-2a5f-4945-a511-dd1dfa804762",
@@ -1765,7 +1732,6 @@
   "515d05f6-ca1c-4609-91b6-67051daf660b": {
     "id": "515d05f6-ca1c-4609-91b6-67051daf660b",
     "z": 2690,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-9c39b6b8-3a04-4992-893e-55907e1ed2ec",
@@ -1774,7 +1740,6 @@
   "d61fc308-12fc-4ab4-a483-627848b4ac7f": {
     "id": "d61fc308-12fc-4ab4-a483-627848b4ac7f",
     "z": 3637,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-3ec1c51f-1ee4-4e1e-8414-97ac3e71cec5",
@@ -1783,7 +1748,6 @@
   "6f45216e-d80e-4a18-a1be-9dcb0d7887ea": {
     "id": "6f45216e-d80e-4a18-a1be-9dcb0d7887ea",
     "z": 7735,
-    "rotation": -540,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-7c5b0489-cd56-44d6-9458-35e1dd3fd08e",
@@ -1792,7 +1756,6 @@
   "9b5eebbe-435d-46cd-ba09-98ddaaa771d3": {
     "id": "9b5eebbe-435d-46cd-ba09-98ddaaa771d3",
     "z": 8794,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-4a141413-2bda-4f6e-b8b5-0ba11ef783c5",
@@ -1801,7 +1764,6 @@
   "38b3dc04-d54a-4634-8380-f1a318339221": {
     "id": "38b3dc04-d54a-4634-8380-f1a318339221",
     "z": 124,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-68dd5084-694f-444d-ab69-e1e7d46a7fbc",
@@ -1810,7 +1772,6 @@
   "a186950d-bd45-4662-8eb9-4d7780a958f4": {
     "id": "a186950d-bd45-4662-8eb9-4d7780a958f4",
     "z": 6561,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-73c0fc30-8f97-436d-b47e-44c2d80387f3",
@@ -1827,7 +1788,6 @@
   "b289cb3c-2c48-410c-992b-01b9d9d66f2e": {
     "id": "b289cb3c-2c48-410c-992b-01b9d9d66f2e",
     "z": 8204,
-    "rotation": 360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-8b511715-e762-4f12-ada2-a3087fcd4eb7",
@@ -1874,7 +1834,6 @@
   "7dcbb676-de9a-423b-ab9b-1e6e61cf98ca": {
     "id": "7dcbb676-de9a-423b-ab9b-1e6e61cf98ca",
     "z": 4941,
-    "rotation": -360,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-5740369e-6f29-4798-926d-e658570ec170",
@@ -1891,7 +1850,6 @@
   "f6f90072-47c4-4eb3-8d33-0c29c392623c": {
     "id": "f6f90072-47c4-4eb3-8d33-0c29c392623c",
     "z": 7728,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-a7e483ce-280b-4cd1-992d-bc457d1905fd",
@@ -1900,7 +1858,6 @@
   "65ef0d3e-05e1-4407-a2a3-35c860185adb": {
     "id": "65ef0d3e-05e1-4407-a2a3-35c860185adb",
     "z": 6335,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-9c2b640a-d178-4428-9330-305056bf6403",
@@ -1909,7 +1866,6 @@
   "44063324-8d24-4b66-bb3f-f44ec4aa0438": {
     "id": "44063324-8d24-4b66-bb3f-f44ec4aa0438",
     "z": 9645,
-    "rotation": -180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-8698374d-6120-4d8c-a431-f96db77762aa",
@@ -1918,7 +1874,6 @@
   "d8b4d306-e525-481b-906e-a7b413effa0d": {
     "id": "d8b4d306-e525-481b-906e-a7b413effa0d",
     "z": 4283,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-0303e35b-75a8-45a1-88d6-3ff88a28b104",
@@ -2358,7 +2313,6 @@
   "a306f124-290b-4031-8806-901453fb2635": {
     "id": "a306f124-290b-4031-8806-901453fb2635",
     "z": 3374,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-174ad715-47af-4804-9cc7-8968fdf81903",
@@ -2367,7 +2321,6 @@
   "905a4fbd-5633-411d-ae10-7c8e059b6110": {
     "id": "905a4fbd-5633-411d-ae10-7c8e059b6110",
     "z": 2435,
-    "rotation": 180,
     "type": "card",
     "deck": "14d43ef6-a2b3-4e63-8004-b781df4ab0b9",
     "cardType": "type-594e9013-ff62-411d-b18e-87fc2e486075",
